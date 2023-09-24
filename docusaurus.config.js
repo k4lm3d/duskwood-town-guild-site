@@ -1,6 +1,8 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
+// https://facebookdocusaurusg3ypmr-royc--3000--d6c42aca.local-credentialless.webcontainer.io
+
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
@@ -18,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  // organizationName: 'daqinsystem', // Usually your GitHub org/user name.
-  // projectName: 'duskwood-town-guild-site', // Usually your repo name.
+  organizationName: 'k4lm3d', // Usually your GitHub org/user name.
+  projectName: 'duskwood-town-guild-site', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -122,7 +124,7 @@ const config = {
               },
               // {
               //   label: 'GitHub',
-              //   href: 'https://github.com/daqinsystem/duskwood-town-guild-site',
+              //   href: 'https://github.com/k4lm3d/duskwood-town-guild-site',
               // },
             ],
           },

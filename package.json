@@ -1,5 +1,5 @@
 {
-  "name": "docusaurus",
+  "name": "duskwood-town-guild-site",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -41,5 +41,5 @@
   "engines": {
     "node": ">=16.14"
   },
-  "description": "Docusaurus example project"
+  "description": "duskwood-town-guild-site project"
 }
